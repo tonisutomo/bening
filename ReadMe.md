@@ -6,3 +6,5 @@ nurul
 putri
 Tutut D A
 fahri
+HAI GUE MIMI
+LO YANG NGOMONGIN GUE DI PEROSOTAN KAN??!!??
