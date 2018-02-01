@@ -13,3 +13,6 @@ sdfasdfasd
 safdasdfas
 sdfasdfa
 .
+apanya ilangggg ..
+tulisan gajiannya ilang tadi :(
+
