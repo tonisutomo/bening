@@ -9,6 +9,7 @@ fahri
 HAI GUE MIMI
 LO YANG NGOMONGIN GUE DI PEROSOTAN KAN??!!??
 
+
 01 Februari 2018
 
 mimi coba belajar eiy, hari ini bulan februari, bentar lagi gajian
@@ -17,4 +18,10 @@ mimi coba belajar eiy, hari ini bulan februari, bentar lagi gajian
 new branch
 Assalamualaikum wr wb
 01 Februari 2018
+
+
+add branch toni 
+01 Februari 2018
+new branch
+Assalamualaikum wr wb
 
