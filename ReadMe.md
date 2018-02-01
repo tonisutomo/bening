@@ -5,4 +5,3 @@ hendraw
 nurul
 putri
 Tutut D A
-fahri
