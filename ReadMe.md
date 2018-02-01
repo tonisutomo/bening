@@ -8,4 +8,5 @@ Tutut D A
 fahri
 HAI GUE MIMI
 LO YANG NGOMONGIN GUE DI PEROSOTAN KAN??!!??
-PRINCESS
+Assalamualaikum wr wb
+01 Februari 2018
