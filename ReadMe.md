@@ -8,3 +8,6 @@ Tutut Dewi A
 fahri
 HAI GUE MIMI
 
+
+mimi coba belajar eiy, hari ini bulan februari, bentar lagi gajian
+
