@@ -1,4 +1,4 @@
-hi guys ini roro
+hi guys ini roro 
 nah kalo aku agung
 toni
 hendraw
@@ -7,9 +7,4 @@ putri
 Tutut D A
 fahri
 Udaha aku hapus ya by "roro"
-tuh kaaaaaaaan, ilang
-apanya ilangggg .
-sdfasdfasd
-safdasdfas
-sdfasdfa
-.
+vtrftyrvfhk
