@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Apr 02 17:26:59 WIB 2018
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1522664819632
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.cxf\:cxf-rt-bindings-soap\:jar\:2.7.18 from/to central (https\://repo.maven.apache.org/maven2)\: /Users/tonisutomo/.m2/repository/org/apache/cxf/cxf-rt-bindings-soap/2.7.18/aether-9b27d84d-9fa5-4c25-b2db-b6759e320963-cxf-rt-bindings-soap-2.7.18.jar-in-progress (No such file or directory)

@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Feb 06 11:14:21 WIB 2018
+http\://repository.jboss.com/maven2/.lastUpdated=1517890460652
+https\://repo.maven.apache.org/maven2/.lastUpdated=1517890461320
+http\://repository.primefaces.org/.error=Could not transfer artifact org.apache.cxf\:cxf-rt-transports-http\:pom\:2.7.7 from/to prime-repo (http\://repository.primefaces.org)\: sun.security.validator.ValidatorException\: PKIX path building failed\: sun.security.provider.certpath.SunCertPathBuilderException\: unable to find valid certification path to requested target
+http\://repository.jboss.com/maven2/.error=
+@default-prime-repo-http\://repository.primefaces.org/.lastUpdated=1517890460274
